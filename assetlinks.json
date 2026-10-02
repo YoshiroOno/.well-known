@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yoshiro.checklist",
+        "sha256_cert_fingerprints": ["FD:C8:51:29:A6:3E:EC:F3:6E:E5:54:C5:90:13:51:66:95:3E:88:E0:0C:50:0E:20:39:CA:C5:37:59:73:BF:2A"]
+      }
+    }]
